@@ -1,0 +1,16 @@
+D:\studiopril\EnglishNew\EnglishNew\bin\Debug\EnglishNew.exe.config
+D:\studiopril\EnglishNew\EnglishNew\bin\Debug\EnglishNew.exe
+D:\studiopril\EnglishNew\EnglishNew\bin\Debug\EnglishNew.pdb
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.csproj.AssemblyReference.cache
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.Properties.Resources.resources
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.csproj.GenerateResource.cache
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.csproj.CoreCompileInputs.cache
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.exe
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.pdb
+D:\studiopril\EnglishNew\EnglishNew\bin\Debug\stdole.dll
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.csproj.CopyComplete
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.glavUroki.resources
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.zastavka.resources
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.alfavit.resources
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.info.resources
+D:\studiopril\EnglishNew\EnglishNew\obj\Debug\EnglishNew.pesnya.resources
